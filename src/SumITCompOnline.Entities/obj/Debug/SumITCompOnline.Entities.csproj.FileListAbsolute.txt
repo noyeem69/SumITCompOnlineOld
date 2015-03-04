@@ -1,0 +1,9 @@
+F:\WebApi-master\WebApi-master\src\SumITCompOnline.Entities\bin\Debug\SumITCompOnline.Entities.dll
+F:\WebApi-master\WebApi-master\src\SumITCompOnline.Entities\bin\Debug\SumITCompOnline.Entities.pdb
+F:\WebApi-master\WebApi-master\src\SumITCompOnline.Entities\obj\Debug\SumITCompOnline.Entities.dll
+F:\WebApi-master\WebApi-master\src\SumITCompOnline.Entities\obj\Debug\SumITCompOnline.Entities.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\src\SumITCompOnline.Entities\bin\Debug\SumITCompOnline.Entities.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\src\SumITCompOnline.Entities\bin\Debug\SumITCompOnline.Entities.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\src\SumITCompOnline.Entities\obj\Debug\SumITCompOnline.Entities.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\src\SumITCompOnline.Entities\obj\Debug\SumITCompOnline.Entities.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\src\SumITCompOnline.Entities\obj\Debug\SumITCompOnline.Entities.csprojResolveAssemblyReference.cache

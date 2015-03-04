@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll" total="6" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-03-04" time="23:29:46">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="IDEA-PC" user="Ahmed" user-domain="idea-PC" />
+  <culture-info current-culture="en-MY" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll" executed="True" result="Success" success="True" time="1.375" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SumITCompOnline" executed="True" result="Success" success="True" time="1.316" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="WebApi" executed="True" result="Success" success="True" time="1.315" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="1.314" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="1.313" asserts="0">
+                    <results>
+                      <test-suite type="TestFixture" name="ProductsControllerTest" executed="True" result="Success" success="True" time="1.304" asserts="0">
+                        <results>
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.DeleteProduct_ShouldReturnOK" executed="True" result="Success" success="True" time="1.106" asserts="2" />
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.Get_Id_Should_Return_Current_Product_With_Id" executed="True" result="Success" success="True" time="0.010" asserts="2" />
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.Get_Should_Return_All_Existing_Products" executed="True" result="Success" success="True" time="0.019" asserts="2" />
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.PostProduct_ShouldReturnSameProduct" executed="True" result="Success" success="True" time="0.044" asserts="4" />
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.PutProduct_ShouldFail_WhenDifferentID" executed="True" result="Success" success="True" time="0.026" asserts="1" />
+                          <test-case name="SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest.PutProduct_ShouldReturnStatusCode" executed="True" result="Success" success="True" time="0.008" asserts="2" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,78 @@
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll.config
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.pdb
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.SqlServer.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\Newtonsoft.Json.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\NMock3.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\nunit.framework.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.Entities.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Net.Http.Formatting.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Cors.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.Cors.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.WebHost.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Mvc.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Razor.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Razor.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.Entities.pdb
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.pdb
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.SqlServer.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\Newtonsoft.Json.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\NMock3.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\nunit.framework.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Net.Http.Formatting.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.Cors.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.WebHost.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Mvc.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Razor.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Razor.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.csprojResolveAssemblyReference.cache
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.dll
+F:\WebApi-master\WebApi-master\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.csprojResolveAssemblyReference.cache
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\obj\Debug\SumITCompOnline.WebApi.Test.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll.config
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.SqlServer.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\Newtonsoft.Json.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\NMock3.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\nunit.framework.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.Entities.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Net.Http.Formatting.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Cors.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.Cors.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.WebHost.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Mvc.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Razor.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Razor.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.Entities.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.pdb
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\EntityFramework.SqlServer.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\Newtonsoft.Json.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\NMock3.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\nunit.framework.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Net.Http.Formatting.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.Cors.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Http.WebHost.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Mvc.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.Razor.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Razor.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.xml
+F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\System.Web.WebPages.Deployment.xml

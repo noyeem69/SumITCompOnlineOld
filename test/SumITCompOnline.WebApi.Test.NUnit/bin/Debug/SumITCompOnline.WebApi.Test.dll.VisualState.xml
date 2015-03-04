@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1007]F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll</TopNode>
+  <SelectedNode>[0-1007]F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1007]F:\.Net Development\Exercise\Interview_Prep\SumITCompOnline\test\SumITCompOnline.WebApi.Test.NUnit\bin\Debug\SumITCompOnline.WebApi.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1008]SumITCompOnline" Expanded="true" />
+    <Node UniqueName="[0-1009]SumITCompOnline.WebApi" Expanded="true" />
+    <Node UniqueName="[0-1010]SumITCompOnline.WebApi.Test" Expanded="true" />
+    <Node UniqueName="[0-1011]SumITCompOnline.WebApi.Test.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]SumITCompOnline.WebApi.Test.Controllers.ProductsControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>
